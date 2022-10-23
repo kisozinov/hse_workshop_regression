@@ -1,6 +1,8 @@
 hse_workshop_regression
 ==============================
 
+Работу выполнили: Созинов Кирилл и Хорев Егор (19ПМИ-2)
+
 Regression lab
 
 Project Organization
